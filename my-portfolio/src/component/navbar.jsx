@@ -27,7 +27,7 @@ function Navbar() {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/document/Amirhossein_Resume.pdf" download>
+              <a className="nav-link" href={`${process.env.PUBLIC_URL}/document/Amirhossein_Resume.pdf`} download>
                 Resume
               </a>
             </li>
