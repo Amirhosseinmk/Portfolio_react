@@ -13,6 +13,7 @@ import './styles/main.css'
 
 
 function App() {
+  console.log(`${process.env.PUBLIC_URL}/document/Amirhossein_Resume.pdf`);
   return (
     <Router>
       <Navbar />
