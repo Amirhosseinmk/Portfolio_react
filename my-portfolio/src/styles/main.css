@@ -1,0 +1,36 @@
+.boxes{padding: 
+    40px;
+    background-color: rgb(179, 170, 170);
+}
+
+img{
+    padding: 20px;
+    background-color: white;
+}
+.inside{
+    background-color: white;
+}
+.nac{
+    --bs-bg-opacity: 1;
+    background-color: grey;
+}
+
+.mt-4 {
+  margin-top: 1.5rem !important;
+  
+}
+body, html {
+  min-height: 100vh;
+  background-color: rgb(179, 170, 170) !important;
+}
+.Skills{
+    height: 400px;
+    align-content: center;
+   
+}
+.profile{
+    margin-top: 20px;
+}
+.card-footer{
+    background-color: rgb(179, 170, 170);
+}
