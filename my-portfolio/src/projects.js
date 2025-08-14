@@ -38,6 +38,31 @@ const projects = [
         language:"Python / Django",
         GithubLink:"https://github.com/Amirhosseinmk/SecureFileSharing",
         info:"This secure file-sharing platform enables users to manage files confidently and efficiently. It includes features such as user registration, password reset, and secure upload, download, and sharing of files. Security is a key focus, with encryption for file storage, hashing for integrity validation, and robust user authentication with access control. I collaborated on this project with my friend Hadj Benseddik, and we developed a Python testing file to thoroughly test the application. The project was implemented using Python, Django, HTML, and CSS."
+    },
+    {
+        id:6,
+        imageURL:"https://media.designrush.com/agencies/804897/conversions/Krachi---s-Space-Technologies-Inc-logo-profile.jpg",
+        title:"Kvault Mobile App",
+        language:"React Native",
+        GithubLink:"https://github.com/Krachi-s-Space-Technologies-Inc/Team-Kvault-app",
+        info:"The KVault app is a React Native mobile application that connects to a physical safe box, allowing users to monitor and manage its status in real time.It displays safe status (locked/unlocked), device connectivity (online/offline), and transaction history of deposits and withdrawals.The app integrates with backend APIs to synchronize safe data, update balances, and provide a secure, user-friendly control interface."
+
+    },
+    {
+        id:7,
+        imageURL:"https://us1.discourse-cdn.com/flex015/uploads/thunkable/original/3X/e/f/efc3ca99e9133da184ae8eb1dcc5ed3e6623b3ef.png",
+        title:"Guess the number",
+        language:"React Native",
+        GithubLink:"https://github.com/Amirhosseinmk/Game-Guess-Number-",
+        info:"The Guessing Number app is a React Native game where the app tries to guess a number chosen by the user. Players provide hints (higher or lower) until the app correctly guesses the number, making it an interactive logic-based challenge."
+    },
+    {
+        id:8,
+        imageURL:"https://s3.amazonaws.com/meal.planner.app/homepage/meal-planner-app.jpg",
+        title:"Meals Mobile App",
+        language:"React Native",
+        GithubLink:"https://github.com/Amirhosseinmk/MealsApp",
+        info:"This mobile app was created by me just for fun, to teach cooking."
     }
 ]
 
