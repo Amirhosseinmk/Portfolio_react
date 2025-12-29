@@ -1,18 +1,22 @@
-.boxes{padding: 
-    40px;
-    background-color: rgb(179, 170, 170);
+.boxes{
+  padding: 40px;
+  background-color: #1e1e1e;
 }
 
 img{
-    padding: 20px;
-    background-color: white;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 6px;
 }
 .inside{
-    background-color: white;
+    background-color: #2a2a2a;
 }
 .nac{
-    --bs-bg-opacity: 1;
-    background-color: grey;
+  --bs-bg-opacity: 1;
+  background-color: #6f6767;
+  border-bottom: 1px solid #ffffff !important;
+  
+  
 }
 
 .mt-4 {
@@ -21,16 +25,28 @@ img{
 }
 body, html {
   min-height: 100vh;
-  background-color: rgb(179, 170, 170) !important;
+  background-color: #6f6767 !important;
+  color: #1a1a1a;
 }
 .Skills{
     height: 400px;
     align-content: center;
+    background-color: #6f6767;
+    
+    
    
 }
-.profile{
-    margin-top: 20px;
+
+
+.card {
+  background-color: #2a2a2a;
+  color: #eaeaea;
+  border: none;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+  margin: 30px;
 }
-.card-footer{
-    background-color: rgb(179, 170, 170);
+
+#navbut {
+    color: #ffffff;
 }
+

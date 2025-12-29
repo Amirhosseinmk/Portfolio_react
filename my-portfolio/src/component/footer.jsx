@@ -5,14 +5,14 @@ function Footer() {
     <div
       class="card-footer bg-transparent text-center"
       style={{
-        borderTop: "2px solid black", paddingBottom: "10px", fontSize: "larger",height:"100%"
+        borderTop: "2px solid white", paddingBottom: "10px", fontSize: "larger",height:"100%" , 
       }}
     >
-      <h2>Get In Touch</h2>
-      <p>
+      <h2 style={{ color:"white"}}>Get In Touch</h2>
+      <p style={{ color:"white"}}>
         Currently seeking Software Engineering or Software Development <br />
         internship opportunities! Contact me at:
-        <a href="mailto:amir-hossein@myseneca.ca" class="text-success">
+        <a href="mailto:amir-hossein@myseneca.ca" class="text-success"> {" "}
           amir-hossein@myseneca.ca
         </a>
       </p>

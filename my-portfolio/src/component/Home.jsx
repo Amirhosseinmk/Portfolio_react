@@ -56,10 +56,10 @@ function Home() {
 
       {/* Skills Section */}
       <div
-        className="card mt-6 mb-4 Center"
+        className="card mt-6 Center " 
         style={{ maxWidth: "800px", margin: "auto"}}
       >
-        <div className="card-body Skills">
+        <div className="card-body Skills" >
           <h1 className="text-center mb-5">Skills</h1>
           <div className="column">
             <div className="col-md-6 mb-3">

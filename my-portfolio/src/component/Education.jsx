@@ -78,6 +78,19 @@ function Education() {
                       Creating <strong>Secure File Sharing</strong> using
                       python, CSS, JavaScript and Django Framework
                     </li>
+                    <li>
+                      <strong>Extracting and process Covid-19 data</strong>{" "}
+                      for 40 U.S. states, analyzing over 10,000 data points using Python, Panda,and Numpy
+                    </li>
+                    <li>
+                      Implemented classical AI search, adversarial decision-making, and graph algorithms for <strong>pathfinding and optimization problems.</strong>
+                    </li>
+                    <li>
+                      Built machine learning models to predict marital outcomes using <strong>decision trees, clustering </strong>, and <strong>feature analysis </strong> on real-world datasets.
+                    </li>
+                    <li>
+                      Designed <strong>an embedded smart cane system </strong> using sensors and microcontrollers to improve obstacle detection and user safety.
+                    </li>
                   </ul>
                   <p>
                     These projects have helped me strengthen my programming
@@ -88,7 +101,7 @@ function Education() {
                   <h4 class="mt-4">Technical Skills</h4>
                   <ul>
                     <li>
-                      <strong>Languages:</strong> C, C++, Python, JavaScript
+                      <strong>Languages:</strong> C, C++, Python, JavaScript , Assembly code
                     </li>
                     <li>
                       <strong>Frameworks:</strong> Django

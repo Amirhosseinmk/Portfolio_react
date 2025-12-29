@@ -63,6 +63,27 @@ const projects = [
         language:"React Native",
         GithubLink:"https://github.com/Amirhosseinmk/MealsApp",
         info:"This mobile app was created by me just for fun, to teach cooking."
+    },
+    {
+        id:9,
+        imageURL:"https://i.postimg.cc/hvx7Js6j/marital.jpg",
+        title:"Marital Outcome Prediction",
+        language:"Python",
+        GithubLink:"https://github.com/Amirhosseinmk/Data-Mining-Project",
+        info: `This project develops a comprehensive predictive modeling system for marriage consulting services by analyzing psychological and contextual factors influencing marital outcomes.
+The analysis combines two complementary datasets:
+1) UCI Divorce Predictors – psychometric assessment based on Dr. John Gottman’s research framework (54 questions).
+2) NSFG 2017–2019 – demographic, financial, cultural, and contextual data from a nationally representative sample.`
+
+    },
+    {
+        id:10,
+        imageURL:"https://i.dailymail.co.uk/i/pix/2014/06/20/article-2663715-1EF7186900000578-228_634x286.jpg",
+        title:"Smart Cane",
+        language:"Assembly code",
+        GithubLink:"https://github.com/Amirhosseinmk/Smart_Cane",
+        info:`Designed a smart cane using sensors and microcontrollers to assist with obstacle detection.
+              Processed sensor data using FRDM-K66F microprocessor to improve user safety and system responsiveness`
     }
 ]
 

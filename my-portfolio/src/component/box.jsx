@@ -2,10 +2,10 @@ import React from "react";
 
 function Box(props) {
   return (
-    <div>
-      <div class="card h-60 w-60 ">
+    <div class="col">
+      <div class="card h-100 d-flex flex-column">
         <img src={props.image} class="card-img-top" alt="project visual" />
-        <div class="card-body d-flex flex-column inside">
+        <div class="card-body d-flex flex-column">
           <h5 class="card-title">{props.title}</h5>
           <p class="card-text">{props.text}</p>
         </div>
