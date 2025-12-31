@@ -2,21 +2,17 @@ import React from "react";
 
 function Footer() {
   return (
-    <div
-      class="card-footer bg-transparent text-center"
-      style={{
-        borderTop: "2px solid white", paddingBottom: "10px", fontSize: "larger",height:"100%" , 
-      }}
-    >
-      <h2 style={{ color:"white"}}>Get In Touch</h2>
-      <p style={{ color:"white"}}>
+    <footer className="footer">
+      <h2>Get In Touch</h2>
+      <p>
         Currently seeking Software Engineering or Software Development <br />
         internship opportunities! Contact me at:
-        <a href="mailto:amir-hossein@myseneca.ca" class="text-success"> {" "}
+        <a href="mailto:amir-hossein@myseneca.ca" className="text-success">
+          {" "}
           amir-hossein@myseneca.ca
         </a>
       </p>
-    </div>
+    </footer>
   );
 }
 
