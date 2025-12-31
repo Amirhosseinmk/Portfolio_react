@@ -12,17 +12,13 @@ function App() {
   return (
     <Router>
       <Navbar />
-      <div className="page">
-        <div className="page-content">
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/projects" element={<Projects />} />
-            <Route path="/education/:field" element={<Education />} />
-          </Routes>
-        </div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/education/:field" element={<Education />} />
+      </Routes>
 
-        <Footer />
-      </div>
+      <Footer />
     </Router>
   );
 }
