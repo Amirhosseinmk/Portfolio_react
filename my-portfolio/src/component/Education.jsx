@@ -14,10 +14,10 @@ function Education() {
             <div class="col-md-8 mx-auto">
               <div class="card shadow">
                 <div class="card-body">
-                  <h3 class="card-title">
+                  <h3 class="card-title" style={{color: "black"}}>
                     Bachelor of Software Engineering (BSA) - Seneca College
                   </h3>
-                  <p class="card-text mt-3">
+                  <p class="card-text mt-3" style={{color: "black"}}>
                     I am currently in my <strong>second year</strong> of the{" "}
                     <strong>Bachelor of Software Engineering (BSA)</strong>{" "}
                     program at <strong>Seneca College with GPA 3.7</strong>.
@@ -134,10 +134,10 @@ function Education() {
             <div class="col-md-8 mx-auto">
               <div class="card shadow">
                 <div class="card-body">
-                  <h3 class="card-title">
+                  <h3 class="card-title" style={{color: "black"}}>
                     Bachelor of Science in Applied Chemistry
                   </h3>
-                  <p class="card-text mt-3">
+                  <p class="card-text mt-3" style={{color: "black"}}>
                     I completed my{" "}
                     <strong>Bachelor of Science in Applied Chemistry</strong>{" "}
                     from{" "}
